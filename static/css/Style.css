@@ -107,9 +107,9 @@
 
 .card-body a{
   text-decoration: none;
-  font-size: 15px;
+  #font-size: 15px;
   margin-top: auto;
-  font-weight: 600;
+  #font-weight: 600;
 }
 
 .card-body a:hover{
